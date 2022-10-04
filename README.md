@@ -15,6 +15,10 @@
    </tr>
  </table>
  
+ <h2>Acesso</h2>
+ A aplicação está disponível no seguinte endereço:
+ https://alura-studies-theta.vercel.app/
+ 
 <h2>Frame da aplicação em execução</h2>
 
 ![React_alura_studies](https://user-images.githubusercontent.com/64814663/189505269-dcd1504c-2311-4c55-921d-cb7c247cdb04.png)
